@@ -42,6 +42,12 @@ Program Features
         ◦ The user will enter the USN of the student whose information needs to be updated.
         ◦ Once the student is found, the user can modify their name, gender, DOB, or mobile number.
         ◦ It will validate the new data before updating the record.
+    5. Search a Student:
+          The user will enter the USN  to search a particular student.
+          It will display the student’s details if found, otherwise it will notify the user that it's an invalid USN.
+    6. Save the Details
+          When user selects to save the details , all the details should be saved in the computer.
+          The data should be present in the computer even after the application is closed and reopened.  
     5. Exit the Program:
         ◦ The user can choose to exit the program.
         ◦ It will stop accepting input and close the program.
